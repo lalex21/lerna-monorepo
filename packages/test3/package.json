@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "test1": "1.0.0",
-    "test2": "1.0.0"
+    "test1": "^1.0.0",
+    "test2": "^1.0.0"
   }
 }
